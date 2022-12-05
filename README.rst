@@ -25,3 +25,5 @@ Example of use:
    display.write_to_buffer('12345678')
    display.display()
    
+
+Repo forked, will add my modifications
